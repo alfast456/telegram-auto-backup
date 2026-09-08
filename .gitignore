@@ -1,1 +1,4 @@
 .env
+# config.json
+*.sql
+__pycache__/
