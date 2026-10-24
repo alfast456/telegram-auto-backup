@@ -1,4 +1,14 @@
 {
-    "interval_minutes": 2,
-    "databases": []
+    "interval_minutes": 1440,
+    "databases": [
+        "acms",
+        "human_resources_system",
+        "sparepart_system",
+        "capacity_system",
+        "complaint_system",
+        "material_system",
+        "mesocks-app",
+        "scan_barcode",
+        "db_khtext"
+    ]
 }

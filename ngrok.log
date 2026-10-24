@@ -1,0 +1,579 @@
+nohup: ignoring input
+t=2026-09-12T11:34:47+0700 lvl=info msg="no configuration paths supplied"
+t=2026-09-12T11:34:47+0700 lvl=info msg="using configuration at default config path" path=/home/kahatex/snap/ngrok/429/.config/ngrok/ngrok.yml
+t=2026-09-12T11:34:47+0700 lvl=info msg="open config file" path=/home/kahatex/snap/ngrok/429/.config/ngrok/ngrok.yml err=<nil>
+t=2026-09-12T11:34:47+0700 lvl=info msg="FIPS 140 mode" enabled=false
+t=2026-09-12T11:34:47+0700 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+t=2026-09-12T11:34:47+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-09-12T11:34:47+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-09-12T11:34:47+0700 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:5000 url=https://corgi-suitable-opossum.ngrok-free.app
+t=2026-09-12T11:35:47+0700 lvl=info msg="join connections" obj=join id=f921181ce64e l=127.0.0.1:5000 r=91.108.5.149:52916
+t=2026-09-12T11:35:48+0700 lvl=info msg="join connections" obj=join id=6f8abfd3e147 l=127.0.0.1:5000 r=91.108.5.149:52916
+t=2026-09-12T11:35:49+0700 lvl=info msg="join connections" obj=join id=a39f40e46f2e l=127.0.0.1:5000 r=91.108.5.149:52916
+t=2026-09-12T11:36:15+0700 lvl=info msg="join connections" obj=join id=41c4a33a6454 l=127.0.0.1:5000 r=91.108.5.149:52916
+t=2026-09-12T11:36:22+0700 lvl=info msg="join connections" obj=join id=809974b47b62 l=127.0.0.1:5000 r=91.108.5.149:52916
+t=2026-09-12T11:36:44+0700 lvl=info msg="join connections" obj=join id=0c019024503a l=127.0.0.1:5000 r=91.108.5.149:52916
+t=2026-09-12T11:36:56+0700 lvl=info msg="join connections" obj=join id=bebe76c264a9 l=127.0.0.1:5000 r=91.108.5.149:52916
+t=2026-09-12T11:38:50+0700 lvl=info msg="join connections" obj=join id=4c76a7cc6003 l=127.0.0.1:5000 r=91.108.5.149:29680
+t=2026-09-12T11:39:03+0700 lvl=info msg="join connections" obj=join id=c3e59c7982eb l=127.0.0.1:5000 r=91.108.5.149:29680
+t=2026-09-12T11:39:18+0700 lvl=info msg="join connections" obj=join id=272f682df21c l=127.0.0.1:5000 r=91.108.5.149:29680
+t=2026-09-12T11:39:29+0700 lvl=info msg="join connections" obj=join id=f3954a79149a l=127.0.0.1:5000 r=91.108.5.149:29680
+t=2026-09-12T11:40:11+0700 lvl=info msg="join connections" obj=join id=ea79b3e4ec6a l=127.0.0.1:5000 r=91.108.5.149:29680
+t=2026-09-12T11:41:42+0700 lvl=info msg="join connections" obj=join id=8a5b14d471b5 l=127.0.0.1:5000 r=91.108.5.149:63510
+t=2026-09-12T11:42:57+0700 lvl=info msg="join connections" obj=join id=bf7968e4cbc5 l=127.0.0.1:5000 r=91.108.5.149:18722
+t=2026-09-12T11:43:08+0700 lvl=info msg="join connections" obj=join id=3963aab7fc86 l=127.0.0.1:5000 r=91.108.5.149:18722
+t=2026-09-12T11:44:33+0700 lvl=info msg="join connections" obj=join id=6ee1e66274e4 l=127.0.0.1:5000 r=91.108.5.149:40800
+t=2026-09-12T11:44:43+0700 lvl=info msg="join connections" obj=join id=a23a934d701e l=127.0.0.1:5000 r=91.108.5.149:40800
+t=2026-09-12T11:45:12+0700 lvl=info msg="join connections" obj=join id=4ac07af2aac5 l=127.0.0.1:5000 r=91.108.5.149:40800
+t=2026-09-12T11:45:38+0700 lvl=info msg="join connections" obj=join id=a48da2271cbf l=127.0.0.1:5000 r=91.108.5.149:40800
+t=2026-09-12T11:45:42+0700 lvl=info msg="join connections" obj=join id=e56836e5e011 l=127.0.0.1:5000 r=91.108.5.149:40800
+t=2026-09-12T11:45:48+0700 lvl=info msg="join connections" obj=join id=2e25cb0e754f l=127.0.0.1:5000 r=91.108.5.149:40800
+t=2026-09-12T11:46:01+0700 lvl=info msg="join connections" obj=join id=8bfb3e282308 l=127.0.0.1:5000 r=91.108.5.149:40800
+t=2026-09-12T11:46:09+0700 lvl=info msg="join connections" obj=join id=6fcbfd037bae l=127.0.0.1:5000 r=91.108.5.149:40800
+t=2026-09-12T11:49:24+0700 lvl=info msg="join connections" obj=join id=55c4fcaf1682 l=127.0.0.1:5000 r=91.108.5.149:61220
+t=2026-09-14T07:23:43+0700 lvl=info msg="join connections" obj=join id=7eea661f04d9 l=127.0.0.1:5000 r=140.82.115.107:17096
+t=2026-09-14T11:14:31+0700 lvl=info msg="join connections" obj=join id=7f0c10531b90 l=127.0.0.1:5000 r=140.82.115.175:44948
+t=2026-09-14T11:15:11+0700 lvl=info msg="join connections" obj=join id=4a4f31bd022f l=127.0.0.1:5000 r=140.82.115.247:51318
+t=2026-09-14T11:15:11+0700 lvl=info msg="join connections" obj=join id=deebd52ee80d l=127.0.0.1:5000 r=140.82.115.61:51900
+t=2026-09-14T14:14:17+0700 lvl=info msg="join connections" obj=join id=6591c843cbf8 l=127.0.0.1:5000 r=140.82.115.11:21362
+t=2026-09-14T14:27:03+0700 lvl=info msg="join connections" obj=join id=70b1185ef976 l=127.0.0.1:5000 r=140.82.115.250:17698
+t=2026-09-14T16:56:16+0700 lvl=info msg="join connections" obj=join id=9cb230c348cf l=127.0.0.1:5000 r=140.82.115.254:64900
+t=2026-09-14T16:58:17+0700 lvl=info msg="join connections" obj=join id=33e9c3417755 l=127.0.0.1:5000 r=140.82.115.117:30908
+t=2026-09-15T09:04:34+0700 lvl=info msg="join connections" obj=join id=ae10609aa5a1 l=127.0.0.1:5000 r=140.82.115.154:54884
+t=2026-09-15T09:05:16+0700 lvl=info msg="join connections" obj=join id=0da4cc37f910 l=127.0.0.1:5000 r=140.82.115.117:15526
+t=2026-09-15T09:19:29+0700 lvl=info msg="join connections" obj=join id=6976bcf39927 l=127.0.0.1:5000 r=140.82.115.169:42842
+t=2026-09-15T09:19:45+0700 lvl=info msg="join connections" obj=join id=781c2dd1b736 l=127.0.0.1:5000 r=140.82.115.252:42464
+t=2026-09-15T09:20:01+0700 lvl=info msg="join connections" obj=join id=a559ec72543b l=127.0.0.1:5000 r=140.82.115.108:21006
+t=2026-09-15T09:20:01+0700 lvl=info msg="join connections" obj=join id=059315a24e26 l=127.0.0.1:5000 r=140.82.115.46:20096
+t=2026-09-15T10:18:10+0700 lvl=info msg="join connections" obj=join id=8b58cde34c43 l=127.0.0.1:5000 r=140.82.115.57:16510
+t=2026-09-15T10:18:36+0700 lvl=info msg="join connections" obj=join id=c6f13c3b66e3 l=127.0.0.1:5000 r=140.82.115.75:18910
+t=2026-09-15T10:18:50+0700 lvl=info msg="join connections" obj=join id=37847a24b1d0 l=127.0.0.1:5000 r=140.82.115.154:59318
+t=2026-09-15T10:18:50+0700 lvl=info msg="join connections" obj=join id=40801794af3d l=127.0.0.1:5000 r=140.82.115.148:25158
+t=2026-09-15T11:39:36+0700 lvl=info msg="join connections" obj=join id=4a0743476f0b l=127.0.0.1:5000 r=140.82.115.119:32582
+t=2026-09-15T14:33:07+0700 lvl=info msg="join connections" obj=join id=04c7b942b286 l=127.0.0.1:5000 r=140.82.115.12:54298
+t=2026-09-15T15:04:45+0700 lvl=info msg="join connections" obj=join id=7c5e71663fbf l=127.0.0.1:5000 r=140.82.115.152:21052
+t=2026-09-15T15:40:01+0700 lvl=info msg="join connections" obj=join id=eef6d1243271 l=127.0.0.1:5000 r=140.82.115.90:46898
+t=2026-09-15T16:52:10+0700 lvl=info msg="join connections" obj=join id=632e62a14201 l=127.0.0.1:5000 r=140.82.115.10:46094
+t=2026-09-15T16:53:23+0700 lvl=info msg="join connections" obj=join id=a1e17e5f45a7 l=127.0.0.1:5000 r=140.82.115.148:18388
+t=2026-09-15T16:53:34+0700 lvl=info msg="join connections" obj=join id=6c6787d70aee l=127.0.0.1:5000 r=140.82.115.250:33238
+t=2026-09-15T16:53:34+0700 lvl=info msg="join connections" obj=join id=aa424401cd4f l=127.0.0.1:5000 r=140.82.115.157:36392
+t=2026-09-16T09:27:21+0700 lvl=info msg="join connections" obj=join id=6aa9e5f8546a l=127.0.0.1:5000 r=140.82.115.51:15060
+t=2026-09-16T09:38:39+0700 lvl=info msg="join connections" obj=join id=95d19e91c2f7 l=127.0.0.1:5000 r=140.82.115.154:31574
+t=2026-09-16T09:56:39+0700 lvl=info msg="join connections" obj=join id=1fd23fd9c0e5 l=127.0.0.1:5000 r=140.82.115.148:31212
+t=2026-09-16T10:59:25+0700 lvl=info msg="join connections" obj=join id=11daad9a1f4f l=127.0.0.1:5000 r=140.82.115.50:56178
+t=2026-09-16T11:41:54+0700 lvl=info msg="join connections" obj=join id=a8e5b6191487 l=127.0.0.1:5000 r=140.82.115.41:41988
+t=2026-09-16T13:37:57+0700 lvl=info msg="join connections" obj=join id=ee7a01ed280b l=127.0.0.1:5000 r=140.82.115.172:15212
+t=2026-09-17T09:19:02+0700 lvl=info msg="join connections" obj=join id=e3d0aa45d18c l=127.0.0.1:5000 r=140.82.115.10:62812
+t=2026-09-17T09:20:04+0700 lvl=info msg="join connections" obj=join id=1e77e463653d l=127.0.0.1:5000 r=140.82.115.173:16494
+t=2026-09-17T09:20:04+0700 lvl=info msg="join connections" obj=join id=a6b87f5e869e l=127.0.0.1:5000 r=140.82.115.73:49014
+t=2026-09-17T09:45:41+0700 lvl=info msg="join connections" obj=join id=944374583500 l=127.0.0.1:5000 r=140.82.115.159:29192
+t=2026-09-17T10:04:59+0700 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session id=66ae75dc6ccb err="read EOF from remote peer" obj=csess
+t=2026-09-17T10:04:59+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-09-17T10:04:59+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-09-17T10:05:17+0700 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session obj=csess id=e0119af3f5fc clientid=fce171fcb139a91b9bbd91902a21534a
+t=2026-09-17T12:01:34+0700 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session obj=csess id=3dbe88751e47 clientid=fce171fcb139a91b9bbd91902a21534a
+t=2026-09-17T12:01:34+0700 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session obj=csess id=66ae75dc6ccb err="session closed"
+t=2026-09-17T12:01:44+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:01:55+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:02:06+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:02:18+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:02:32+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:02:50+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:03:16+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:03:56+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:04:36+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:05:16+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:57732->127.0.0.53:53: i/o timeout"
+t=2026-09-17T12:05:56+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:06:36+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:34006->127.0.0.53:53: i/o timeout"
+t=2026-09-17T12:07:16+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:07:56+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:08:36+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:09:16+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:09:56+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:10:36+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:11:16+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:11:56+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:12:36+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:13:16+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:13:56+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:14:36+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:33921->127.0.0.53:53: i/o timeout"
+t=2026-09-17T12:15:16+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:15:56+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:16:36+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:17:16+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:58023->127.0.0.53:53: i/o timeout"
+t=2026-09-17T12:17:56+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:18:36+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:19:16+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:19:56+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:20:36+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:21:12+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: server misbehaving"
+t=2026-09-17T12:21:52+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:22:32+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:23:12+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:23:52+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:24:32+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:25:12+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:25:52+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:26:32+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:27:12+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:27:52+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:28:32+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:29:12+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:29:52+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:30:32+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:31:12+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:31:52+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:32:32+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:33:12+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:33:52+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:34:32+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:35:12+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:35:52+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:36:32+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:37:12+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:37:52+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:38:32+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:39:12+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:39:52+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:40:32+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:41:12+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:41:52+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:42:32+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:43:12+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:43:52+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:44:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:45:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:45:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:36812->127.0.0.53:53: i/o timeout"
+t=2026-09-17T12:46:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:47:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:47:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:48:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:49:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:49:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:50:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:51:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:51:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:52:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:53:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:53:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:54:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:55:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:55:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:56:42+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T12:57:22+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:58:02+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T12:58:42+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T12:59:22+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:00:02+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T13:00:42+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:01:22+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:02:02+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T13:02:47+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T13:03:27+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:04:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T13:04:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:05:28+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:06:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T13:06:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:07:28+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:08:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:08:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:09:28+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:10:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:10:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:11:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T13:12:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:12:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:13:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:14:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:14:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:15:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:16:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:16:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:17:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:18:18+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T13:18:58+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:19:38+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:20:18+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:20:58+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:21:38+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:36202->127.0.0.53:53: i/o timeout"
+t=2026-09-17T13:22:25+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T13:23:05+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:23:45+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:24:34+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T13:25:14+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:25:54+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:26:34+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:27:14+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:27:59+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T13:28:39+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T13:29:19+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:29:59+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:30:39+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:31:26+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T13:32:06+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:32:46+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:33:26+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:34:06+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:34:46+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:35:26+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:36:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T13:36:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:37:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:38:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:38:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:39:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:40:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:40:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:41:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:42:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:42:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:43:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:44:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:44:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:45:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:46:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:46:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:47:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:46315->127.0.0.53:53: i/o timeout"
+t=2026-09-17T13:48:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:48:59+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T13:49:44+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T13:50:24+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:51:04+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:51:44+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:52:24+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:53:04+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:53:44+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:54:24+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:55:04+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:55:44+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:56:28+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: Get \"http://crl.ngrok-agent.com/ngrok.crl\": dial tcp: lookup crl.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:41681->127.0.0.53:53: i/o timeout"
+t=2026-09-17T13:57:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:57:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:58:28+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:59:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T13:59:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:00:28+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:01:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:01:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T14:02:28+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:03:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:03:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:04:28+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:05:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:05:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:06:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T14:07:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:07:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:08:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:09:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:09:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:10:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:11:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:11:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:12:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:13:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:13:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T14:14:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:15:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:15:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:16:39+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T14:17:19+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:17:59+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:18:39+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:19:19+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:19:59+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:20:39+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:21:19+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:21:59+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:22:39+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:23:19+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:23:59+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:24:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T14:25:28+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:26:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:26:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:27:28+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:28:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:28:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:29:28+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:30:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:30:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:31:28+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:32:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:32:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:33:28+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:34:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:34:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:35:28+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:36:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:36:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:37:28+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:38:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:38:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:39:28+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:40:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-09-17T14:40:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:41:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:42:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-09-17T14:42:55+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-09-17T14:42:55+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-09-17T16:59:25+0700 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session obj=csess id=66ae75dc6ccb err="read tcp 172.23.44.14:54694->3.1.215.86:443: read: connection reset by peer"
+t=2026-09-17T16:59:26+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-09-17T16:59:26+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-09-17T16:59:41+0700 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session obj=csess id=f89741e0173b clientid=fce171fcb139a91b9bbd91902a21534a
+t=2026-09-18T10:36:54+0700 lvl=info msg="join connections" obj=join id=1468af577fb0 l=127.0.0.1:5000 r=140.82.115.31:55564
+t=2026-09-18T10:37:04+0700 lvl=info msg="join connections" obj=join id=6fc61b9f4d6f l=127.0.0.1:5000 r=140.82.115.155:17522
+t=2026-09-18T10:37:04+0700 lvl=info msg="join connections" obj=join id=9c24ed28bd77 l=127.0.0.1:5000 r=140.82.115.125:55084
+t=2026-09-18T11:46:00+0700 lvl=info msg="join connections" obj=join id=8dc0617c37bd l=127.0.0.1:5000 r=91.108.5.149:62898
+t=2026-09-18T11:46:23+0700 lvl=info msg="join connections" obj=join id=3cd7f29c98b5 l=127.0.0.1:5000 r=91.108.5.149:62898
+t=2026-09-18T11:46:31+0700 lvl=info msg="join connections" obj=join id=bb25a67ed0d1 l=127.0.0.1:5000 r=91.108.5.149:62898
+t=2026-09-18T15:22:15+0700 lvl=info msg="join connections" obj=join id=0c50b447bbb0 l=127.0.0.1:5000 r=140.82.115.254:21060
+t=2026-09-18T15:22:44+0700 lvl=info msg="join connections" obj=join id=5099a7a92266 l=127.0.0.1:5000 r=140.82.115.47:30728
+t=2026-09-18T15:22:54+0700 lvl=info msg="join connections" obj=join id=dc9a3dd5a575 l=127.0.0.1:5000 r=140.82.115.102:33906
+t=2026-09-18T15:22:54+0700 lvl=info msg="join connections" obj=join id=9c6c325ae856 l=127.0.0.1:5000 r=140.82.115.159:50142
+t=2026-09-18T15:40:07+0700 lvl=info msg="join connections" obj=join id=6df0114bfa64 l=127.0.0.1:5000 r=140.82.115.9:32778
+t=2026-09-18T16:27:18+0700 lvl=info msg="join connections" obj=join id=104fe9e99ba1 l=127.0.0.1:5000 r=140.82.115.51:35300
+t=2026-09-18T16:27:44+0700 lvl=info msg="join connections" obj=join id=007b98b2f6a7 l=127.0.0.1:5000 r=140.82.115.240:21762
+t=2026-09-18T16:59:37+0700 lvl=info msg="join connections" obj=join id=92472758a79f l=127.0.0.1:5000 r=140.82.115.80:34692
+t=2026-09-18T16:59:57+0700 lvl=info msg="join connections" obj=join id=df71e0758546 l=127.0.0.1:5000 r=140.82.115.78:45558
+t=2026-09-18T17:00:21+0700 lvl=info msg="join connections" obj=join id=225a975489ac l=127.0.0.1:5000 r=140.82.115.10:16108
+t=2026-09-18T17:00:21+0700 lvl=info msg="join connections" obj=join id=0620ee6ed8bb l=127.0.0.1:5000 r=140.82.115.175:17034
+t=2026-09-19T08:59:35+0700 lvl=info msg="join connections" obj=join id=6fd869c8bd24 l=127.0.0.1:5000 r=91.108.5.149:50192
+t=2026-09-19T08:59:43+0700 lvl=info msg="join connections" obj=join id=3398a3412964 l=127.0.0.1:5000 r=91.108.5.149:50192
+t=2026-09-19T09:00:34+0700 lvl=info msg="join connections" obj=join id=4680f774d083 l=127.0.0.1:5000 r=140.82.115.11:17070
+t=2026-09-19T09:51:09+0700 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session obj=csess id=459c8f64c5b4 clientid=fce171fcb139a91b9bbd91902a21534a
+t=2026-09-19T09:51:09+0700 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session obj=csess id=66ae75dc6ccb err="session closed"
+t=2026-09-19T09:51:14+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:42069->127.0.0.53:53: i/o timeout"
+t=2026-09-19T09:51:20+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:55876->127.0.0.53:53: i/o timeout"
+t=2026-09-19T09:51:26+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:49993->127.0.0.53:53: i/o timeout"
+t=2026-09-19T09:51:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:45972->127.0.0.53:53: i/o timeout"
+t=2026-09-19T09:51:42+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:59148->127.0.0.53:53: i/o timeout"
+t=2026-09-19T09:51:55+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:59560->127.0.0.53:53: i/o timeout"
+t=2026-09-19T09:52:16+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:54351->127.0.0.53:53: i/o timeout"
+t=2026-09-19T09:52:46+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-09-19T09:52:46+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-09-19T11:10:42+0700 lvl=info msg="join connections" obj=join id=e0270f2e71b0 l=127.0.0.1:5000 r=140.82.115.155:26428
+t=2026-09-21T09:39:30+0700 lvl=info msg="join connections" obj=join id=6f4e73938a0d l=127.0.0.1:5000 r=140.82.115.114:55084
+t=2026-09-21T09:43:34+0700 lvl=info msg="join connections" obj=join id=2d55cf65b4d2 l=127.0.0.1:5000 r=140.82.115.29:29248
+t=2026-09-21T09:44:55+0700 lvl=info msg="join connections" obj=join id=097da6c87394 l=127.0.0.1:5000 r=140.82.115.18:24506
+t=2026-09-21T10:39:49+0700 lvl=info msg="join connections" obj=join id=aa9882e410ad l=127.0.0.1:5000 r=140.82.115.86:17314
+t=2026-09-21T10:39:51+0700 lvl=info msg="join connections" obj=join id=ef250d0c41e3 l=127.0.0.1:5000 r=140.82.115.173:31220
+t=2026-09-21T10:42:45+0700 lvl=info msg="join connections" obj=join id=f6b5628a168a l=127.0.0.1:5000 r=140.82.115.79:61784
+t=2026-09-21T10:42:45+0700 lvl=info msg="join connections" obj=join id=1155f176a13f l=127.0.0.1:5000 r=140.82.115.51:50174
+t=2026-09-21T11:16:54+0700 lvl=info msg="join connections" obj=join id=3f17bf1f2ae2 l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:17:04+0700 lvl=info msg="join connections" obj=join id=30141254af89 l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:17:07+0700 lvl=info msg="join connections" obj=join id=6e1d2ca92e86 l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:17:10+0700 lvl=info msg="join connections" obj=join id=943428803e65 l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:17:15+0700 lvl=info msg="join connections" obj=join id=75b5f81f27fb l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:17:17+0700 lvl=info msg="join connections" obj=join id=60b51214ce92 l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:17:27+0700 lvl=info msg="join connections" obj=join id=4da610b591ed l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:17:29+0700 lvl=info msg="join connections" obj=join id=2a5837d30b47 l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:17:33+0700 lvl=info msg="join connections" obj=join id=b586ea658de1 l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:17:36+0700 lvl=info msg="join connections" obj=join id=a3fe8e6bc179 l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:17:39+0700 lvl=info msg="join connections" obj=join id=6bf79ab70dbf l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:17:43+0700 lvl=info msg="join connections" obj=join id=bd1eb192c17d l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:17:46+0700 lvl=info msg="join connections" obj=join id=cc3992e440b1 l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:17:50+0700 lvl=info msg="join connections" obj=join id=0a915c623afe l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:17:52+0700 lvl=info msg="join connections" obj=join id=23bfc178ed71 l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:17:55+0700 lvl=info msg="join connections" obj=join id=b7ecd918d1ee l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:17:57+0700 lvl=info msg="join connections" obj=join id=831196843125 l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:18:03+0700 lvl=info msg="join connections" obj=join id=1ecc25c4c126 l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:18:06+0700 lvl=info msg="join connections" obj=join id=06267c33aa68 l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:18:08+0700 lvl=info msg="join connections" obj=join id=a8770b4d5e2d l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:18:09+0700 lvl=info msg="join connections" obj=join id=467d549b57fc l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:18:11+0700 lvl=info msg="join connections" obj=join id=4360c1aced7f l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:18:14+0700 lvl=info msg="join connections" obj=join id=8b7da2a274ff l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:18:16+0700 lvl=info msg="join connections" obj=join id=26d02a82fdd7 l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T11:18:19+0700 lvl=info msg="join connections" obj=join id=1ac20753ef1f l=127.0.0.1:5000 r=91.108.5.149:46308
+t=2026-09-21T13:48:23+0700 lvl=info msg="join connections" obj=join id=afe37ec4577d l=127.0.0.1:5000 r=140.82.115.118:29634
+t=2026-09-21T14:04:01+0700 lvl=info msg="join connections" obj=join id=44b1c07b39c7 l=127.0.0.1:5000 r=140.82.115.95:55040
+t=2026-09-21T14:37:31+0700 lvl=info msg="join connections" obj=join id=ca0e0ecac20a l=127.0.0.1:5000 r=140.82.115.64:41780
+t=2026-09-21T15:03:51+0700 lvl=info msg="join connections" obj=join id=457fc5aee4b1 l=127.0.0.1:5000 r=140.82.115.0:50070
+t=2026-09-21T15:05:10+0700 lvl=info msg="join connections" obj=join id=cf5e904eb7ba l=127.0.0.1:5000 r=140.82.115.101:57862
+t=2026-09-21T15:05:27+0700 lvl=info msg="join connections" obj=join id=e8330fac2ef0 l=127.0.0.1:5000 r=140.82.115.44:17930
+t=2026-09-21T15:05:27+0700 lvl=info msg="join connections" obj=join id=e9b09b1621f1 l=127.0.0.1:5000 r=140.82.115.148:52950
+t=2026-09-22T09:49:54+0700 lvl=info msg="join connections" obj=join id=ad845a95cfc2 l=127.0.0.1:5000 r=140.82.115.109:62390
+t=2026-09-22T09:50:42+0700 lvl=info msg="join connections" obj=join id=4247f9189590 l=127.0.0.1:5000 r=140.82.115.163:31630
+t=2026-09-22T09:50:55+0700 lvl=info msg="join connections" obj=join id=7b744a71fb16 l=127.0.0.1:5000 r=140.82.115.248:65000
+t=2026-09-22T09:50:55+0700 lvl=info msg="join connections" obj=join id=0c9da893106d l=127.0.0.1:5000 r=140.82.115.100:46256
+t=2026-09-23T08:45:22+0700 lvl=info msg="join connections" obj=join id=11eeb3fdf0c9 l=127.0.0.1:5000 r=140.82.115.12:52580
+t=2026-09-23T08:45:50+0700 lvl=info msg="join connections" obj=join id=1c1e1bc05601 l=127.0.0.1:5000 r=140.82.115.173:27424
+t=2026-09-23T08:45:58+0700 lvl=info msg="join connections" obj=join id=e4c4ecc29cde l=127.0.0.1:5000 r=140.82.115.80:19998
+t=2026-09-23T08:45:59+0700 lvl=info msg="join connections" obj=join id=cc6534d04ee3 l=127.0.0.1:5000 r=140.82.115.83:39506
+t=2026-09-23T09:44:23+0700 lvl=info msg="join connections" obj=join id=78c655378e78 l=127.0.0.1:5000 r=140.82.115.172:52936
+t=2026-09-23T09:58:36+0700 lvl=info msg="join connections" obj=join id=01bf66199b85 l=127.0.0.1:5000 r=140.82.115.30:43504
+t=2026-09-23T09:58:52+0700 lvl=info msg="join connections" obj=join id=35d81ad84b89 l=127.0.0.1:5000 r=140.82.115.47:18864
+t=2026-09-23T09:59:52+0700 lvl=info msg="join connections" obj=join id=133b2ca9abbc l=127.0.0.1:5000 r=140.82.115.0:62230
+t=2026-09-23T09:59:52+0700 lvl=info msg="join connections" obj=join id=82b529264eaf l=127.0.0.1:5000 r=140.82.115.76:61358
+t=2026-09-25T23:50:38+0700 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session id=66ae75dc6ccb err="read EOF from remote peer" obj=csess
+t=2026-09-25T23:50:38+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-09-25T23:50:38+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-09-25T23:50:56+0700 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session obj=csess id=bc3cb81c535a clientid=fce171fcb139a91b9bbd91902a21534a
+t=2026-09-28T16:19:58+0700 lvl=info msg="join connections" obj=join id=c79c615cf8dc l=127.0.0.1:5000 r=140.82.115.0:49894
+t=2026-09-28T16:20:15+0700 lvl=info msg="join connections" obj=join id=3fd7c3de1f56 l=127.0.0.1:5000 r=140.82.115.53:45266
+t=2026-09-28T16:21:02+0700 lvl=info msg="join connections" obj=join id=134436c1687b l=127.0.0.1:5000 r=140.82.115.0:27350
+t=2026-09-28T16:21:03+0700 lvl=info msg="join connections" obj=join id=0dbb1829bc22 l=127.0.0.1:5000 r=140.82.115.17:21030
+t=2026-09-29T10:36:23+0700 lvl=info msg="join connections" obj=join id=82cdc3cfcae2 l=127.0.0.1:5000 r=140.82.115.127:36482
+t=2026-09-29T10:36:35+0700 lvl=info msg="join connections" obj=join id=403207483186 l=127.0.0.1:5000 r=140.82.115.243:48122
+t=2026-09-29T10:36:58+0700 lvl=info msg="join connections" obj=join id=2686c1640eda l=127.0.0.1:5000 r=140.82.115.93:49676
+t=2026-09-29T10:36:58+0700 lvl=info msg="join connections" obj=join id=a6aacaceb474 l=127.0.0.1:5000 r=140.82.115.34:18198
+t=2026-09-30T09:03:15+0700 lvl=info msg="join connections" obj=join id=be24b185f149 l=127.0.0.1:5000 r=140.82.115.11:52814
+t=2026-09-30T09:03:27+0700 lvl=info msg="join connections" obj=join id=61a3b6b24eb3 l=127.0.0.1:5000 r=140.82.115.91:54000
+t=2026-09-30T09:04:20+0700 lvl=info msg="join connections" obj=join id=593396dcfb7d l=127.0.0.1:5000 r=140.82.115.173:16894
+t=2026-09-30T09:04:20+0700 lvl=info msg="join connections" obj=join id=2c2527c88df4 l=127.0.0.1:5000 r=140.82.115.85:62192
+t=2026-10-01T19:46:03+0700 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session obj=csess id=9e8186b321cc clientid=fce171fcb139a91b9bbd91902a21534a
+t=2026-10-01T19:46:03+0700 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session obj=csess id=66ae75dc6ccb err="session closed"
+t=2026-10-01T19:46:08+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:54877->127.0.0.53:53: i/o timeout"
+t=2026-10-01T19:46:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:50511->127.0.0.53:53: i/o timeout"
+t=2026-10-01T19:46:19+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:33069->127.0.0.53:53: i/o timeout"
+t=2026-10-01T19:46:26+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:33791->127.0.0.53:53: i/o timeout"
+t=2026-10-01T19:46:35+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:38149->127.0.0.53:53: i/o timeout"
+t=2026-10-01T19:46:48+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:41372->127.0.0.53:53: i/o timeout"
+t=2026-10-01T19:47:09+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:50341->127.0.0.53:53: i/o timeout"
+t=2026-10-01T19:47:54+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-10-01T19:48:25+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-10-01T19:48:25+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-10-01T20:17:20+0700 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session id=0c7e4d0ece22 clientid=fce171fcb139a91b9bbd91902a21534a obj=csess
+t=2026-10-01T20:17:20+0700 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session id=66ae75dc6ccb err="session closed" obj=csess
+t=2026-10-01T20:17:25+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:49775->127.0.0.53:53: i/o timeout"
+t=2026-10-01T20:17:30+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:51588->127.0.0.53:53: i/o timeout"
+t=2026-10-01T20:17:36+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: server misbehaving"
+t=2026-10-01T20:17:43+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:34210->127.0.0.53:53: i/o timeout"
+t=2026-10-01T20:17:52+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:55696->127.0.0.53:53: i/o timeout"
+t=2026-10-01T20:18:05+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com on 127.0.0.53:53: read udp 127.0.0.1:44495->127.0.0.53:53: i/o timeout"
+t=2026-10-01T20:18:21+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-10-01T20:18:21+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-10-04T02:48:53+0700 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session id=66ae75dc6ccb err="read EOF from remote peer" obj=csess
+t=2026-10-04T02:48:53+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-10-04T02:48:53+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-10-04T02:49:08+0700 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session obj=csess id=cd62dd217e90 clientid=fce171fcb139a91b9bbd91902a21534a
+t=2026-10-06T08:37:37+0700 lvl=info msg="join connections" obj=join id=11e539538cd8 l=127.0.0.1:5000 r=140.82.115.252:55256
+t=2026-10-06T08:37:48+0700 lvl=info msg="join connections" obj=join id=4e604f8a4a1c l=127.0.0.1:5000 r=140.82.115.24:20894
+t=2026-10-06T08:38:12+0700 lvl=info msg="join connections" obj=join id=07ce4c472c99 l=127.0.0.1:5000 r=140.82.115.154:44332
+t=2026-10-06T08:38:12+0700 lvl=info msg="join connections" obj=join id=df7f3a98503f l=127.0.0.1:5000 r=140.82.115.72:43880
+t=2026-10-06T08:39:21+0700 lvl=info msg="join connections" obj=join id=676381f9396e l=127.0.0.1:5000 r=140.82.115.250:55914
+t=2026-10-06T08:39:52+0700 lvl=info msg="join connections" obj=join id=a8525295363d l=127.0.0.1:5000 r=140.82.115.116:55880
+t=2026-10-06T08:40:02+0700 lvl=info msg="join connections" obj=join id=1b1f83f8172e l=127.0.0.1:5000 r=140.82.115.242:60500
+t=2026-10-06T08:40:03+0700 lvl=info msg="join connections" obj=join id=b599ae2849e7 l=127.0.0.1:5000 r=140.82.115.154:36096
+t=2026-10-09T08:27:08+0700 lvl=info msg="join connections" obj=join id=45bb00471b40 l=127.0.0.1:5000 r=140.82.115.18:22850
+t=2026-10-09T08:27:20+0700 lvl=info msg="join connections" obj=join id=1ff85d67a04c l=127.0.0.1:5000 r=140.82.115.51:54408
+t=2026-10-09T08:27:41+0700 lvl=info msg="join connections" obj=join id=7280aa13ba0d l=127.0.0.1:5000 r=140.82.115.61:31520
+t=2026-10-09T08:27:41+0700 lvl=info msg="join connections" obj=join id=e15b22cc165f l=127.0.0.1:5000 r=140.82.115.2:45578
+t=2026-10-10T09:48:25+0700 lvl=info msg="join connections" obj=join id=c6705703978a l=127.0.0.1:5000 r=91.108.5.149:38032
+t=2026-10-10T09:50:43+0700 lvl=info msg="join connections" obj=join id=22cf2c4e51ab l=127.0.0.1:5000 r=91.108.5.149:17470
+t=2026-10-10T09:51:37+0700 lvl=info msg="join connections" obj=join id=9ff47293945b l=127.0.0.1:5000 r=91.108.5.149:17470
+t=2026-10-10T09:54:45+0700 lvl=info msg="join connections" obj=join id=45c306f50d79 l=127.0.0.1:5000 r=91.108.5.149:28632
+t=2026-10-10T09:54:55+0700 lvl=info msg="join connections" obj=join id=2265d3073da3 l=127.0.0.1:5000 r=91.108.5.149:28632
+t=2026-10-12T08:42:58+0700 lvl=info msg="join connections" obj=join id=b9923168974e l=127.0.0.1:5000 r=140.82.115.63:61134
+t=2026-10-12T08:43:10+0700 lvl=info msg="join connections" obj=join id=b9703135770d l=127.0.0.1:5000 r=140.82.115.120:36862
+t=2026-10-12T08:45:41+0700 lvl=info msg="join connections" obj=join id=8666ea8ca800 l=127.0.0.1:5000 r=140.82.115.172:50954
+t=2026-10-12T08:45:42+0700 lvl=info msg="join connections" obj=join id=75509682e076 l=127.0.0.1:5000 r=140.82.115.72:32402
+t=2026-10-12T08:46:00+0700 lvl=info msg="join connections" obj=join id=a74e21b44003 l=127.0.0.1:5000 r=140.82.115.155:25222
+t=2026-10-12T08:46:00+0700 lvl=info msg="join connections" obj=join id=5a7760d89377 l=127.0.0.1:5000 r=140.82.115.29:31520
+t=2026-10-12T11:21:24+0700 lvl=info msg="join connections" obj=join id=6b37f09dd0eb l=127.0.0.1:5000 r=140.82.115.118:54100
+t=2026-10-12T11:21:35+0700 lvl=info msg="join connections" obj=join id=a56db5170753 l=127.0.0.1:5000 r=140.82.115.17:29574
+t=2026-10-12T11:22:14+0700 lvl=info msg="join connections" obj=join id=205b434aa6ca l=127.0.0.1:5000 r=140.82.115.26:59756
+t=2026-10-12T11:22:15+0700 lvl=info msg="join connections" obj=join id=29f8badd3e29 l=127.0.0.1:5000 r=140.82.115.92:41120
+t=2026-10-12T11:34:33+0700 lvl=info msg="join connections" obj=join id=2cc57efa845e l=127.0.0.1:5000 r=140.82.115.0:31284
+t=2026-10-12T11:34:43+0700 lvl=info msg="join connections" obj=join id=cc315c27eb46 l=127.0.0.1:5000 r=140.82.115.251:50158
+t=2026-10-12T11:34:52+0700 lvl=info msg="join connections" obj=join id=69c84d5bfb0e l=127.0.0.1:5000 r=140.82.115.46:49492
+t=2026-10-12T11:34:52+0700 lvl=info msg="join connections" obj=join id=7caaf56db69c l=127.0.0.1:5000 r=140.82.115.73:21448
+t=2026-10-12T15:06:31+0700 lvl=info msg="join connections" obj=join id=920672d831cd l=127.0.0.1:5000 r=91.108.5.149:47926
+t=2026-10-12T15:06:43+0700 lvl=info msg="join connections" obj=join id=f51523c85f5b l=127.0.0.1:5000 r=91.108.5.149:47926
+t=2026-10-12T15:06:47+0700 lvl=info msg="join connections" obj=join id=4b73d8447c5f l=127.0.0.1:5000 r=91.108.5.149:47926
+t=2026-10-12T15:10:32+0700 lvl=info msg="join connections" obj=join id=6cfbd0b8b413 l=127.0.0.1:5000 r=91.108.5.149:27104
+t=2026-10-12T15:10:39+0700 lvl=info msg="join connections" obj=join id=800bce2b73ed l=127.0.0.1:5000 r=91.108.5.149:27104
+t=2026-10-14T09:56:16+0700 lvl=info msg="join connections" obj=join id=48e6b0f2d198 l=127.0.0.1:5000 r=140.82.115.108:29716
+t=2026-10-14T09:56:27+0700 lvl=info msg="join connections" obj=join id=666257533b79 l=127.0.0.1:5000 r=140.82.115.31:22060
+t=2026-10-14T09:56:43+0700 lvl=info msg="join connections" obj=join id=d0da5258f473 l=127.0.0.1:5000 r=140.82.115.11:20276
+t=2026-10-14T09:56:43+0700 lvl=info msg="join connections" obj=join id=16670fb34e69 l=127.0.0.1:5000 r=140.82.115.155:32980
+t=2026-10-16T03:03:35+0700 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session obj=csess id=66ae75dc6ccb err="read EOF from remote peer"
+t=2026-10-16T03:03:35+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-10-16T03:03:35+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-10-16T03:03:59+0700 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session obj=csess id=6af6e01d5fa8 clientid=fce171fcb139a91b9bbd91902a21534a
+t=2026-10-19T05:23:58+0700 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session obj=csess id=66ae75dc6ccb err="read EOF from remote peer"
+t=2026-10-19T05:24:01+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-10-19T05:24:01+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-10-19T05:24:15+0700 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session clientid=fce171fcb139a91b9bbd91902a21534a obj=csess id=971a905c2a9a
+t=2026-10-19T12:45:18+0700 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session obj=csess id=4bc322d8d1d7 clientid=fce171fcb139a91b9bbd91902a21534a
+t=2026-10-19T12:45:18+0700 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session id=66ae75dc6ccb err="session closed" obj=csess
+t=2026-10-19T12:45:18+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-10-19T12:45:18+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-10-19T12:48:15+0700 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session obj=csess id=32a05314105a clientid=fce171fcb139a91b9bbd91902a21534a
+t=2026-10-19T12:48:15+0700 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session obj=csess id=66ae75dc6ccb err="session closed"
+t=2026-10-19T12:48:16+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-10-19T12:48:16+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-10-21T09:50:38+0700 lvl=info msg="join connections" obj=join id=5761a52dbdd3 l=127.0.0.1:5000 r=140.82.115.11:37474
+t=2026-10-21T09:50:50+0700 lvl=info msg="join connections" obj=join id=edd448f3926c l=127.0.0.1:5000 r=140.82.115.41:41922
+t=2026-10-21T09:51:23+0700 lvl=info msg="join connections" obj=join id=757081aacae9 l=127.0.0.1:5000 r=140.82.115.9:22942
+t=2026-10-21T09:51:23+0700 lvl=info msg="join connections" obj=join id=f710bc3a504d l=127.0.0.1:5000 r=140.82.115.150:65112
+t=2026-10-21T17:14:55+0700 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session obj=csess id=66ae75dc6ccb err="read EOF from remote peer"
+t=2026-10-21T17:14:55+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-10-21T17:14:55+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-10-21T17:15:20+0700 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session obj=csess id=5b6e99901780 clientid=fce171fcb139a91b9bbd91902a21534a
+t=2026-10-21T17:39:30+0700 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session obj=csess id=396d711eaf4a clientid=fce171fcb139a91b9bbd91902a21534a
+t=2026-10-21T17:39:30+0700 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session id=66ae75dc6ccb err="session closed" obj=csess
+t=2026-10-21T17:39:40+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-21T17:39:41+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-10-21T17:39:41+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-10-22T05:36:33+0700 lvl=info msg="update available" obj=updater
+t=2026-10-22T11:36:34+0700 lvl=info msg="update available" obj=updater
+t=2026-10-22T17:36:35+0700 lvl=info msg="update available" obj=updater
+t=2026-10-22T23:27:22+0700 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session obj=csess id=66ae75dc6ccb err="read EOF from remote peer"
+t=2026-10-22T23:27:22+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-10-22T23:27:22+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-10-22T23:27:43+0700 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session id=d696cce3a5cb clientid=fce171fcb139a91b9bbd91902a21534a obj=csess
+t=2026-10-22T23:36:36+0700 lvl=info msg="update available" obj=updater
+t=2026-10-23T05:36:37+0700 lvl=info msg="update available" obj=updater
+t=2026-10-23T11:36:37+0700 lvl=info msg="update available" obj=updater
+t=2026-10-23T17:36:38+0700 lvl=info msg="update available" obj=updater
+t=2026-10-23T23:36:39+0700 lvl=info msg="update available" obj=updater
+t=2026-10-24T05:36:40+0700 lvl=info msg="update available" obj=updater
+t=2026-10-24T08:15:44+0700 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session obj=csess id=ff88906f141f clientid=fce171fcb139a91b9bbd91902a21534a
+t=2026-10-24T08:15:44+0700 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session obj=csess id=66ae75dc6ccb err="session closed"
+t=2026-10-24T08:15:54+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:16:04+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:16:15+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:16:27+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:16:41+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:17:07+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-10-24T08:17:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:18:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:18:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:19:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:20:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:20:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:21:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:22:13+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:22:53+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:23:33+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:24:15+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-10-24T08:25:00+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-10-24T08:25:40+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:26:20+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:27:00+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:27:40+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:28:20+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:29:00+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:29:40+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:30:20+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:31:00+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:31:40+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:32:20+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:33:00+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:33:44+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to send authentication request: failed to fetch CRL. errors encountered: timed out fetching CRL"
+t=2026-10-24T08:34:24+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:35:04+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:35:44+0700 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ngrok-agent.com:443\": dial tcp: lookup connect.ngrok-agent.com: i/o timeout"
+t=2026-10-24T08:36:14+0700 lvl=info msg="client session established" obj=tunnels.session
+t=2026-10-24T08:36:14+0700 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-10-24T09:48:49+0700 lvl=info msg="join connections" obj=join id=6cc4ba73b530 l=127.0.0.1:5000 r=91.108.5.149:22900
+t=2026-10-24T09:55:56+0700 lvl=info msg="join connections" obj=join id=c12c4876ac4d l=127.0.0.1:5000 r=91.108.5.149:58502
+t=2026-10-24T09:56:00+0700 lvl=info msg="join connections" obj=join id=3e01b6549f01 l=127.0.0.1:5000 r=91.108.5.149:58502
+t=2026-10-24T09:56:07+0700 lvl=info msg="join connections" obj=join id=59a69973faf5 l=127.0.0.1:5000 r=91.108.5.149:58502
+t=2026-10-24T09:56:10+0700 lvl=info msg="join connections" obj=join id=8a599fffdb8b l=127.0.0.1:5000 r=91.108.5.149:58502
+t=2026-10-24T09:56:12+0700 lvl=info msg="join connections" obj=join id=9cf4e2a85404 l=127.0.0.1:5000 r=91.108.5.149:58502
+t=2026-10-24T09:56:22+0700 lvl=info msg="join connections" obj=join id=dc02aaa8160f l=127.0.0.1:5000 r=91.108.5.149:58502
+t=2026-10-24T09:56:45+0700 lvl=info msg="join connections" obj=join id=69045fdc2aa3 l=127.0.0.1:5000 r=91.108.5.149:58502
+t=2026-10-24T09:57:03+0700 lvl=info msg="join connections" obj=join id=dcc370bc35fc l=127.0.0.1:5000 r=91.108.5.149:58502

@@ -1,4 +1,6 @@
 .env
 # config.json
 *.sql
+*.sql.gz
+backup/
 __pycache__/
